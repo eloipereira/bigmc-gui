@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for bigmc#bigmc;2.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies bigmc#bigmc;2.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51205cb7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fc1e3bd[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
@@ -166,7 +166,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 383ms :: artifacts dl 52ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 378ms :: artifacts dl 15ms[0m
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 compile produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 runtime produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 test produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-test.xml[0m
@@ -180,5 +180,5 @@
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 docs produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 pom produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for bigmc#bigmc;2.0 scala-tool produced in /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/resolution-cache/reports/bigmc-bigmc-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (383ms resolve - 52ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (378ms resolve - 15ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

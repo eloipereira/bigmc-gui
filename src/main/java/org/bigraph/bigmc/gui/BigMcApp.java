@@ -168,9 +168,12 @@ public class BigMcApp extends JFrame {
 		System.out.println("Tmp file: " + tmp.getAbsolutePath());
 		saveFile(tmp);
 		
-		String cmdLine = BIGMC_HOME + "/bin/bigmc";
-	
-		toolBar.setMaxSteps(maxSteps);
+		//String cmdLine = BIGMC_HOME + "/bin/bigmc";
+
+        String cmdLine = "bigmc";
+
+
+        toolBar.setMaxSteps(maxSteps);
 
 		cmdLine += " -m " + maxSteps;
 		cmdLine += " -r " + reportSteps;

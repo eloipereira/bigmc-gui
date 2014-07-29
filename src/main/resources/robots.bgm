@@ -1,0 +1,15 @@
+%active l0_Location : 0;
+%active r0_Robot : 1;
+%active l1_Location : 0;
+%active r1_Robot : 1;
+%active match : 0;
+
+
+
+%name network;
+
+%rule r0 l0_Location.r1_Robot[network] || l1_Location -> match || match ;
+
+l0_Location.r0_Robot[network] | l1_Location;
+
+%check;
