@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/bigmc-2.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/BigMcMenu.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BigMcMenu.java[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/BgDisplay.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BgDisplay.java[0m
+[0m[[0mdebug[0m] [0m	alticon.xcf[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/alticon.xcf[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/McVisualiser.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McVisualiser.java[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/McToolbar.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McToolbar.java[0m
+[0m[[0mdebug[0m] [0m	bigmc-small.png[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/bigmc-small.png[0m
+[0m[[0mdebug[0m] [0m	bigmc.png[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/bigmc.png[0m
+[0m[[0mdebug[0m] [0m	bigmc.icns[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/bigmc.icns[0m
+[0m[[0mdebug[0m] [0m	bigmc-tiny.ico[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/bigmc-tiny.ico[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/McEvent.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McEvent.java[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/BigMcApp.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BigMcApp.java[0m
+[0m[[0mdebug[0m] [0m	icon.xcf[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/resources/icon.xcf[0m
+[0m[[0mdebug[0m] [0m	org/bigraph/bigmc/gui/RunOpts.java[0m
+[0m[[0mdebug[0m] [0m	  /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/RunOpts.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,53 @@
+[0m[[0minfo[0m] [0mMain Java API documentation to /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javadoc directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javadoc.Main not found with appropriate method signature; forking javadoc instead[0m
+[0m[[0mdebug[0m] [0mForking javadoc: javadoc @/tmp/sbt_74ab1fd3/argfile[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BgDisplay.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BigMcApp.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/BigMcMenu.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McEvent.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McToolbar.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/McVisualiser.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/src/main/java/org/bigraph/bigmc/gui/RunOpts.java...[0m
+[0m[[0minfo[0m] [0mConstructing Javadoc information...[0m
+[0m[[0minfo[0m] [0mStandard Doclet version 1.7.0_55[0m
+[0m[[0minfo[0m] [0mBuilding tree for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/BgDisplay.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/BigMcApp.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/BigMcMenu.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.CloseEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.CopyEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.CutEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.EditorEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.ExampleEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.ManualEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.NewEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.OpenEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.PasteEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.RedoEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.RunEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.SaveAsEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.SaveEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.SelectAllEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.UndoEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McEvent.VisualiseEvent.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McToolbar.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/McVisualiser.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/RunOpts.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/org/bigraph/bigmc/gui/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/constant-values.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/serialized-form.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/overview-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/index-all.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/deprecated-list.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/allclasses-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/allclasses-noframe.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/index.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/api/help-doc.html...[0m
+[0m[[0mdebug[0m] [0mjavadoc returned exit code: 0[0m
+[0m[[0minfo[0m] [0mMain Java API documentation successful.[0m

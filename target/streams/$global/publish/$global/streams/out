@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0m	starting transaction: publish during transaction will be done in [0m
+[0m[[0mdebug[0m] [0m		/home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part[0m
+[0m[[0mdebug[0m] [0m	and on commit moved to [0m
+[0m[[0mdebug[0m] [0m		/home/eloi/.m2/repository/releases/bigmc/bigmc/2.0[0m
+[0m[[0minfo[0m] [0m	published bigmc to /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part/bigmc-2.0.pom[0m
+[0m[[0minfo[0m] [0m	published bigmc to /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part/bigmc-2.0.jar[0m
+[0m[[0minfo[0m] [0m	published bigmc to /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part/bigmc-2.0-sources.jar[0m
+[0m[[0minfo[0m] [0m	published bigmc to /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part/bigmc-2.0-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	publish commited: moved /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0.part [0m
+[0m[[0minfo[0m] [0m		to /home/eloi/.m2/repository/releases/bigmc/bigmc/2.0[0m

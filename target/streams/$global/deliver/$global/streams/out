@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: bigmc#bigmc;2.0 :: 2.0 :: release :: Tue Jul 29 19:29:13 WEST 2014[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Tue Jul 29 19:29:13 WEST 2014 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/eloi/Dropbox/IDEAWorkspace/bigmc-gui/target/ivy-2.0.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (90ms)[0m
